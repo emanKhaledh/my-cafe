@@ -1,0 +1,17 @@
+
+.map-titel{
+  text-align: center;
+  width: 200px;
+  background-color: black;
+  color: white;
+  margin: auto;
+  margin-top: 50px;
+}
+
+
+
+.map-titel h3
+{
+  font-weight: normal;
+  letter-spacing: 0.5px;
+  }
