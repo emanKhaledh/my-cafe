@@ -1,0 +1,36 @@
+.about-style{
+
+
+text-align: center;
+
+width: 200px;
+
+background-color: black;
+
+color: white;
+
+margin: auto;
+
+
+
+
+margin-top: 50px;
+
+
+}
+.about-style h3{
+
+
+font-weight: normal;
+letter-spacing: 0.5px;
+}
+.about-paragraph{
+  margin: auto;
+  width: 700px;
+   padding : 20px
+}
+.about-paragraph p {
+  text-align: left;
+  letter-spacing: 0.5px;
+line-height: 1.6
+}

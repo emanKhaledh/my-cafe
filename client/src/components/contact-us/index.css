@@ -1,0 +1,40 @@
+
+.info-style{
+  width: 700px;
+  margin: auto;
+  text-align: left;
+}
+
+.info-style span{
+  background-color: black;
+  color:white;
+  display: inline-block;
+font-weight: normal;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: -10px
+}
+.p-style{
+ 
+  display: inline;
+  line-height: 30px;
+}
+.input-style{
+  margin:30px auto ;
+  display: block;
+  border: 1px solid #cfc6c6;
+  width: 700px;
+  padding:20px 5px;
+  box-shadow: 1px 1px 8px #888888;
+
+}
+.button{
+background-color: black;
+color: white;
+padding: 15px;
+
+}
+.button:hover{
+  color: #000 !important;
+background-color: #ccc !important;
+}
